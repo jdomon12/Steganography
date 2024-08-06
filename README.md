@@ -17,8 +17,8 @@ Installation
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/jdomon12/steganography_tool.git
-    cd steganography_tool
+    git clone https://github.com/jdomon12/Steganography.git
+    cd Steganography
     ```
 
 2. Create a virtual environment and activate it:
